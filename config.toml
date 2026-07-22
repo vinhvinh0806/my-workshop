@@ -1,5 +1,5 @@
-baseURL = "https://vinhvinh0806.github.io/my-workshop/"
-relativeURLs = true
+baseURL = "https://vinhvinh0806.github.io/phuocvinhthuctap/"
+relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
 
