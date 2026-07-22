@@ -1,58 +1,36 @@
 ---
 title: "Worklog Tuần 6"
-date: 2024-01-01
-weight: 1
+date: 2026-06-08
+weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 
 ### Mục tiêu tuần 6:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Tự học nâng cao về Amazon EC2 và các mô hình triển khai ứng dụng trên máy chủ đám mây.
+* Đăng ký và tham gia các sự kiện/webinar chuyên đề do AWS tổ chức để cập nhật xu hướng công nghệ.
+* Bắt đầu bắt tay vào triển khai dựng khung và các bước cấu hình cơ bản cho đề tài thực tập.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 2 | - Tự học về Amazon EC2 nâng cao và thử nghiệm dịch chuyển ứng dụng Monolith lên Elastic Beanstalk <br>- Đăng ký tham gia sự kiện chuyên đề AWS để giao lưu và mở rộng kiến thức cloud | 08/06/2026 | 08/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - Bắt đầu triển khai các bước dựng khung cơ bản cho hệ thống đề tài thực tập <br>- Tách ứng dụng thành Microservice nhỏ và tích hợp quy trình làm việc với Amazon DynamoDB | 09/06/2026 | 09/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 | - Tham gia sự kiện AWS Event và giao lưu cùng cộng đồng giải pháp điện toán đám mây <br>- Xây dựng kiến trúc Event-Driven, thử nghiệm giao tiếp tin nhắn qua SQS/SNS và dịch vụ AI | 10/06/2026 | 10/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5 | - Triển khai luồng điều phối công việc với AWS Step Functions và tích hợp Lambda tương tác S3 <br>- Xây dựng giao diện Frontend kết nối API Gateway cho các dịch vụ cốt lõi của đề tài | 11/06/2026 | 11/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - Cấu hình xác thực người dùng bằng Amazon Cognito và triển khai Web tĩnh trên S3 + CloudFront <br>- Tổng hợp tiến độ triển khai các bước cơ bản của đề tài và nộp báo cáo tuần 6 | 12/06/2026 | 14/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Kết quả đạt được tuần 6:
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* **Về hoạt động sự kiện & Triển khai đề tài:**
+  * Đăng ký và tham gia đầy đủ các sự kiện AWS để tiếp thu tư duy thiết kế hạ tầng thực tế từ các chuyên gia.
+  * Hoàn thành việc triển khai các bước nền tảng ban đầu của đề tài (dựng khung máy chủ EC2, cấu hình mạng và dịch vụ phụ trợ).
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* **Về kiến thức & Kỹ năng kỹ thuật:**
+  * Nắm vững cách quản trị máy chủ Amazon EC2, triển khai ứng dụng web tự động với Elastic Beanstalk.
+  * Hiểu và thực hành kiến trúc Microservices & Serverless (AWS Lambda, API Gateway, AWS SAM).
+  * Xây dựng luồng xử lý theo sự kiện (Event-Driven) sử dụng Amazon SQS, SNS và AWS Step Functions.
+  * Triển khai giải pháp xác thực người dùng an toàn với Amazon Cognito và bảo mật website tĩnh bằng SSL trên S3 + CloudFront.

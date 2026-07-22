@@ -1,57 +1,37 @@
 ---
-title: "Week 5 Worklog"
-date: 2024-01-01
-weight: 1
+title: "Worklog Week 5"
+date: 2026-06-01
+weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 
 ### Week 5 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Master Amazon VPC concepts and build a secure isolated cloud network environment for the project.
+* Analyze detailed project scope, technical requirements, and target deliverables for the internship topic.
+* Design and draft the initial system architecture diagram.
 
-### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Tasks to implement this week:
+| Day | Task | Start Date | End Date | Resource |
+| --- | --- | --- | --- | --- |
+| Mon-Tue | - Study Operational Excellence pillars and Amazon VPC fundamentals <br>- Automate server shutdown using AWS Lambda and create monitoring dashboards with Amazon CloudWatch | 01/06/2026 | 02/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Wed | - Analyze project scope: Tag-based EC2 access management and AWS Systems Manager automation <br>- Explore Session Manager and write Infrastructure as Code (IaC) templates using AWS CloudFormation | 03/06/2026 | 03/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Thu | - Draft the initial system architecture diagram (VPC, Subnets, Security Groups, Transit Gateway) <br>- Enhance security controls using AWS WAF, IAM Conditions, and AWS Security Hub assessments | 04/06/2026 | 04/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Fri | - Containerize project applications with Docker and deploy services on Amazon ECS <br>- Build automated CI/CD deployment pipelines using AWS CodePipeline | 05/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Sat-Sun | - Perform cost analysis and optimization for the architecture (Savings Plans, Athena) <br>- Finalize the initial system architecture diagram, complete proposal docs, and submit Week 5 report | 06/06/2026 | 07/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Week 5 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **System Design & Analysis:**
+  * Defined clear boundaries, technical requirements, and core AWS service stack for the internship project.
+  * Successfully created the initial system architecture diagram incorporating high availability and security best practices.
 
-* Successfully created and configured an AWS Free Tier account.
-
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* **Infrastructure & Operational Skills:**
+  * Acquired solid hands-on experience in building Amazon VPC networks (Public/Private Subnets, Route Tables, NAT Gateways).
+  * Automated routine tasks using AWS Lambda, Systems Manager Session Manager, and AWS CloudFormation templates.
+  * Successfully containerized application workloads using Docker, deployed to Amazon ECS with CI/CD integration (AWS CodePipeline).
+  * Utilized AWS security auditing tools (AWS WAF, Security Hub) and cost optimization techniques (AWS Glue, Amazon Athena).

@@ -1,59 +1,36 @@
 ---
 title: "Worklog Tuần 9"
-date: 2024-01-01
-weight: 1
+date: 2026-06-29
+weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 
 ### Mục tiêu tuần 9:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Đăng ký làm việc tại văn phòng công ty và tham gia sự kiện công nghệ của AWS để học hỏi kiến thức thực tế.
+* Nghiên cứu phương án và kiến trúc tích hợp các dịch vụ AI Managed Services của AWS vào ứng dụng đề tài.
+* Thử nghiệm thực tế các dịch vụ AI phù hợp (Rekognition, Textract, Comprehend, Translate, Polly, Transcribe).
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 2 | - Đăng ký làm việc tại văn phòng công ty, trao đổi định hướng với mentor <br>- Tìm hiểu tổng quan về hệ sinh thái AI/ML trên AWS (Bedrock, SageMaker, AI Services) | 29/06/2026 | 29/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - Tham gia sự kiện/webinar công nghệ về các giải pháp AI/ML của AWS <br>- Nghiên cứu cách tích hợp AI Services vào kiến trúc ứng dụng hiện tại của đề tài | 30/06/2026 | 30/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 | - Thử nghiệm Amazon Rekognition (xử lý & phân tích hình ảnh) và Amazon Textract (OCR trích xuất dữ liệu) <br>- Đánh giá mức độ phù hợp của tính năng xử lý hình ảnh/tài liệu đối với đề tài | 01/07/2026 | 01/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5 | - Thử nghiệm Amazon Comprehend (NLP/phân tích cảm xúc) và Amazon Translate (dịch thuật tự động) <br>- Thử nghiệm Amazon Polly (Text-to-Speech) và Amazon Transcribe (Speech-to-Text) | 02/07/2026 | 02/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - Đánh giá kết quả thử nghiệm, lựa chọn các dịch vụ AI tối ưu nhất để tích hợp chính thức vào hệ thống <br>- Tổng kết nội dung công việc tuần 9, cập nhật Worklog và nộp báo cáo tiến độ | 03/07/2026 | 05/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Kết quả đạt được tuần 9:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Hoạt động thực tập & Sự kiện AWS:**
+  * Tham gia làm việc trực tiếp tại văn phòng và tham gia event AWS, trao đổi và học hỏi thêm nhiều kinh nghiệm chuyên môn từ chuyên gia.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* **Nghiên cứu & Thử nghiệm AI Services:**
+  * Xác định được phương án kiến trúc để kết nối ứng dụng đề tài với các API dịch vụ AI của AWS.
+  * Thử nghiệm thành công các dịch vụ AI thực tế:
+    * **Xử lý hình ảnh & văn bản:** Amazon Rekognition (nhận diện hình ảnh) và Amazon Textract (trích xuất OCR).
+    * **Xử lý ngôn ngữ & giọng nói:** Amazon Comprehend (NLP), Amazon Translate (dịch thuật), Amazon Polly (chuyển văn bản thành giọng nói) và Amazon Transcribe (chuyển giọng nói thành văn bản).
+  * Lựa chọn được nhóm dịch vụ AI phù hợp nhất để triển khai tích hợp trực tiếp cho đề tài.

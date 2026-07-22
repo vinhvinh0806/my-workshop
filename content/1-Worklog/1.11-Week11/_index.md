@@ -1,57 +1,34 @@
 ---
-title: "Week 11 Worklog"
-date: 2024-01-01
-weight: 2
+title: "Worklog Week 11"
+date: 2026-07-13
+weight: 11
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
 
 ### Week 11 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Review and consolidate knowledge across all completed AWS Cloud Journey modules.
+* Finalize Workshop documentation, synchronize weekly Worklogs, and push updated source code to GitHub.
+* Complete all internship administrative forms and documentation required by both university and company guidelines.
 
-### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Tasks to implement this week:
+| Day | Task | Start Date | End Date | Resource |
+| --- | --- | --- | --- | --- |
+| Mon | - Systematically review core concepts across all studied AWS modules (VPC, EC2, RDS, S3, Serverless, AI/ML) <br>- Audit knowledge logs and personal notes taken throughout the internship duration | 13/07/2026 | 13/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Tue | - Compile and format comprehensive Workshop lab guides for inclusion in the final report <br>- Synchronize and update weekly Worklog records aligned with real progress | 14/07/2026 | 14/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Wed | - Audit codebases, IaC configuration files (CloudFormation/Terraform), and project README files <br>- Commit and push all finalized project artifacts to the GitHub repository | 15/07/2026 | 15/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Thu | - Gather internship progress sheets, mentor evaluations, and supporting evidence <br>- Complete the final internship administrative file per university and company requirements | 16/07/2026 | 16/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Fri-Sun | - Perform quality check on GitHub docs, Workshop guides, and internship portfolio <br>- Consolidate Week 11 progress, perform final audit of deliverables, and submit week report | 17/07/2026 | 19/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Week 11 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Documentation & GitHub Synchronization:**
+  * Completed full Workshop lab documentation and brought weekly Worklog records up to date.
+  * Standardized and published the GitHub project repository with clean code and structured README documentation.
 
-* Successfully created and configured an AWS Free Tier account.
-
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* **Knowledge Review & Portfolio Completion:**
+  * Consolidated a strong theoretical and practical understanding across all covered AWS Cloud modules.
+  * Fully finalized the Internship Administrative Portfolio (evaluation forms, company confirmation, and report materials) on schedule.

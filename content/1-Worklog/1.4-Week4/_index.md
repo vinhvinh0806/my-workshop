@@ -1,57 +1,37 @@
 ---
-title: "Week 4 Worklog"
-date: 2024-01-01
-weight: 1
+title: "Worklog Week 4"
+date: 2026-05-25
+weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
 
 ### Week 4 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Conduct self-study on the IAM module and practice basic to advanced identity and access management configurations.
+* Explore Cloud Migration strategies to AWS via official AWS YouTube channels and documentation.
+* Gather technical resources, prepare documentation, and outline the theoretical framework for the internship topic.
 
-### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+### Tasks to implement this week:
+| Day | Task | Start Date | End Date | Resource |
+| --- | --- | --- | --- | --- |
+| Mon | - Study cloud migration strategies (Rehost, Replatform, Refactor) <br>- Evaluate workload requirements and plan cloud migration roadmaps | 25/05/2026 | 25/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Tue | - Self-study IAM module: Configure IAM Users, Groups, Roles, and Policies <br>- Export VMs from VMware Workstation and import VM image into AWS as an AMI | 26/05/2026 | 26/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Wed | - Watch in-depth technical tutorials on official AWS Study Group YouTube channels <br>- Configure Access Control Lists (ACLs) for S3 Buckets and clean up test environments | 27/05/2026 | 27/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Thu | - Research database migration tools: AWS DMS (Database Migration Service) and AWS SCT <br>- Set up Source/Target Endpoints and test Database Migration Tasks | 28/05/2026 | 28/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| Fri | - Compile technical documentation and reference materials for the internship project <br>- Review used AWS resources, troubleshoot migration errors, and finalize Week 4 report | 29/05/2026 | 31/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Week 4 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Theoretical Knowledge & Research:**
+  * Mastered key Migration to AWS strategies (Rehost, Replatform, Refactor) and AWS Migration Hub concepts.
+  * Understood schema conversion and database synchronization using AWS SCT and AWS DMS.
+  * Successfully compiled technical documentation and established the project outline.
 
-* Successfully created and configured an AWS Free Tier account.
-
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* **Practical & Implementation Skills:**
+  * Proficient in managing IAM credentials, access roles, and permissions across cloud services.
+  * Successfully exported an on-premises VMware virtual machine and imported it as an AWS AMI/Instance.
+  * Configured granular security access using S3 Bucket ACLs.
+  * Developed insights into minimizing service downtime during data migration while strictly maintaining post-lab resource cleanups.

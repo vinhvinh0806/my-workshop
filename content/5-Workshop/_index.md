@@ -1,31 +1,29 @@
 ---
 title: "Workshop"
-date: 2024-01-01
+date: 2026-07-01
 weight: 5
 chapter: false
 pre: " <b> 5. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
-# Secure Hybrid Access to S3 using VPC Endpoints
+# Building a Serverless Car Booking System
 
 #### Overview
 
-**AWS PrivateLink** provides private connectivity to AWS services from VPCs and your on-premises networks, without exposing your traffic to the Public Internet.
+Welcome to the **Serverless Car Booking** Workshop.
+In this section, we will step-by-step deploy a complete ticket booking system entirely using AWS serverless services, including: AWS Amplify, Amazon API Gateway, AWS Lambda, Amazon DynamoDB, and Amazon Cognito.
 
-In this lab, you will learn how to create, configure, and test VPC endpoints that enable your workloads to reach AWS services without traversing the Public Internet.
+This workshop is designed to give you hands-on experience in connecting AWS services to solve a real-world e-commerce problem while ensuring security, automatic scalability, and cost optimization (Pay-as-you-go).
 
-You will create two types of endpoints to access Amazon S3: a Gateway VPC endpoint, and an Interface VPC endpoint. These two types of VPC endpoints offer different benefits depending on if you are accessing Amazon S3 from the cloud or your on-premises location
-+ **Gateway** - Create a gateway endpoint to send traffic to Amazon S3 or DynamoDB using private IP addresses.You route traffic from your VPC to the gateway endpoint using route tables.
-+ **Interface** - Create an interface endpoint to send traffic to endpoint services that use a Network Load Balancer to distribute traffic. Traffic destined for the endpoint service is resolved using DNS.
+#### Workshop Content
 
-#### Content
+Please follow the steps below in order:
 
-1. [Workshop overview](5.1-Workshop-overview)
-2. [Prerequiste](5.2-Prerequiste/)
-3. [Access S3 from VPC](5.3-S3-vpc/)
-4. [Access S3 from On-premises](5.4-S3-onprem/)
-5. [VPC Endpoint Policies (Bonus)](5.5-Policy/)
-6. [Clean up](5.6-Cleanup/)
+1. [Introduction](5.1-introduction/)
+2. [Prerequisites](5.2-prerequisites/)
+3. [Database Initialization](5.3-database/)
+4. [Building the Serverless Backend](5.4-serverless-backend/)
+5. [Security & Authentication](5.5-security/)
+6. [VNPAY Payment Integration](5.6-payment-integration/)
+7. [Frontend Deployment](5.7-frontend-deployment/)
+8. [Resource Clean-up](5.8-clean-up/)

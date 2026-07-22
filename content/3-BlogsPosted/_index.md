@@ -6,17 +6,17 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
-This section will list and introduce the blogs you have posted to [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj). For example:
+During the AWS Cloud Journey program, I explored articles published on AWS Blogs and rewrote them based on my own understanding. Below are the three blog posts I completed and published on the AWS Study Group.
 
-###  [Blog 1 - SESSION POLICIES IN AMAZON EKS POD IDENTITY](3.1-Blog1/)
-This blog introduces the newly added session policies feature in Amazon EKS Pod Identity, which allows you to narrow IAM permissions flexibly and precisely for each pod without needing to create multiple separate IAM roles. This is an important step forward that helps apply the principle of least privilege more effectively in large-scale Kubernetes environments.
+### [Blog 1 - Cost Optimization Strategies for Deploying Eclipse Dataspace Components on AWS](3.1-Blog1/)
 
-###  [Blog 2 - ...](3.2-Blog2/)
-This blog introduces the newly added session policies feature in Amazon EKS Pod Identity, which allows you to narrow IAM permissions flexibly and precisely for each pod without needing to create multiple separate IAM roles. This is an important step forward that helps apply the principle of least privilege more effectively in large-scale Kubernetes environments.
+This blog explains how AWS optimizes the cost of deploying Eclipse Dataspace Components (EDC) on AWS. It discusses the major cost-driving components, compares different deployment approaches, and presents several strategies for reducing infrastructure costs while maintaining performance and scalability.
 
-###  [Blog 3 - ...](3.3-Blog3/)
-This blog introduces the newly added session policies feature in Amazon EKS Pod Identity, which allows you to narrow IAM permissions flexibly and precisely for each pod without needing to create multiple separate IAM roles. This is an important step forward that helps apply the principle of least privilege more effectively in large-scale Kubernetes environments.
+### [Blog 2 - New Amazon Bedrock AgentCore Features for Building Smarter AI Agents](3.2-Blog2/)
+
+This blog introduces the latest enhancements to Amazon Bedrock AgentCore, including broader knowledge capabilities, continuous learning, stronger security features, and AgentCore Harness, which helps developers build intelligent AI agents more efficiently.
+
+### [Blog 3 - Optimizing Costs and Simplifying Operations with Writable Warm Storage in Amazon OpenSearch Service](3.3-Blog3/)
+
+This blog introduces Writable Warm Storage in Amazon OpenSearch Service. It explains the limitations of the traditional UltraWarm storage model, describes how Writable Warm Storage works, and highlights its benefits in terms of cost optimization, operational simplicity, scalability, and search performance for large-scale data workloads.
