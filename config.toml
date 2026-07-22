@@ -1,5 +1,5 @@
-baseURL = "https://workshop-sample.fcjuni.com/"
-relativeURLs = false
+baseURL = "https://vinhvinh0806.github.io/my-workshop/"
+relativeURLs = true
 canonifyURLs = false
 defaultContentLanguage = "en"
 
@@ -15,8 +15,8 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "workshop"
   # Git hub repo link
   editURL = ""
-  description = ""
-  author = "thienlh@thienlu.com"
+  description = "Báo cáo thực tập Workshop"
+  author = "vinhvinh0806"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
