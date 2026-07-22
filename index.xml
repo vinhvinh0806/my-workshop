@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Internship Report</title><link>https://vinhvinh0806.github.io/phuocvinhthuctap/</link><description>Recent content on Internship Report</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://vinhvinh0806.github.io/phuocvinhthuctap/index.xml" rel="self" type="application/rss+xml"/><item><title>Event 1</title><link>https://vinhvinh0806.github.io/phuocvinhthuctap/4-eventparticipated/4.1-event1/</link><pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate><guid>https://vinhvinh0806.github.io/phuocvinhthuctap/4-eventparticipated/4.1-event1/</guid><description>&lt;h1 id="summary-report-saturday-meet-up">Summary Report: &amp;ldquo;Saturday Meet up&amp;rdquo;&lt;/h1>
+&lt;h3 id="event-objectives">Event Objectives&lt;/h3>
+&lt;ul>
+&lt;li>Participate in hands-on activities and experience the working culture directly at the AWS Vietnam office.&lt;/li>
+&lt;li>Learn about large-scale system design mindsets and career development paths within the AWS Cloud ecosystem.&lt;/li>
+&lt;li>Understand the true essence of DevOps culture and the actual role of a Data Analytics Engineer in modern enterprises.&lt;/li>
+&lt;li>Expand perspectives on multinational working environments and learn how to build a strong portfolio for upcoming internship and job opportunities.&lt;/li>
+&lt;/ul>
+&lt;h3 id="speakers">Speakers&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Kien Nguyen &amp;amp; Tho Le&lt;/strong> – Technical Specialists / System Architects&lt;/li>
+&lt;li>&lt;strong>Nghi Danh Hoang Hieu&lt;/strong> – AWS Partner Network / Former FCAJ Student&lt;/li>
+&lt;li>&lt;strong>Trong H. Truong&lt;/strong> – Senior DevOps Engineer&lt;/li>
+&lt;li>&lt;strong>Dat Pham &amp;amp; Cuong Nguyen&lt;/strong> – Data Analytics Engineers&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="key-highlights">Key Highlights&lt;/h3>
+&lt;h4 id="1-system-design-from-small-problems-to-high-scale-architecture">1. System Design: From Small Problems to High-Scale Architecture&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>URL Shortener Case Study:&lt;/strong> Through the URL Shortener example, speakers emphasized that no feature is simple when placed in a high-scale environment.&lt;/li>
+&lt;li>&lt;strong>Core Requirements:&lt;/strong> A stable system must be carefully balanced regarding traffic volume, high availability, optimal performance, and cost efficiency.&lt;/li>
+&lt;li>&lt;strong>Architectural Mindset:&lt;/strong> Engineers must define the overall system architecture clearly before selecting any specific AWS service.&lt;/li>
+&lt;/ul>
+&lt;h4 id="2-career-path-from-first-cloud-ai-journey-to-aws-partner">2. Career Path: From First Cloud AI Journey to AWS Partner&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Inspiring Story:&lt;/strong> A growth journey from the first steps in the First Cloud AI Journey program to becoming part of the AWS Partner Network.&lt;/li>
+&lt;li>&lt;strong>Key Takeaway:&lt;/strong> Getting a job is just the starting point. An engineer&amp;rsquo;s differentiation lies in a continuous self-learning spirit, active community contribution, and building a professional networking ecosystem.&lt;/li>
+&lt;/ul>
+&lt;h4 id="3-the-true-essence-of-a-devops-engineer">3. The True Essence of a DevOps Engineer&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Dispelling Misconceptions:&lt;/strong> DevOps is not merely about being proficient in Docker, Kubernetes, or configuring CI/CD pipelines.&lt;/li>
+&lt;li>&lt;strong>Core Principle:&lt;/strong> DevOps is a culture and set of practices for building, testing, and operating reliable systems built upon solid fundamentals in Linux, Networking, Git, Containers, and programming languages (Python/Golang).&lt;/li>
+&lt;li>&lt;strong>Anti &amp;ldquo;Copy-Paste&amp;rdquo; Mindset:&lt;/strong> Copying commands online does not mean you understand the root cause. A skilled DevOps engineer needs systems thinking and effective cross-departmental communication skills.&lt;/li>
+&lt;/ul>
+&lt;h4 id="4-data-analytics-through-a-multinational-lens">4. Data Analytics Through a Multinational Lens&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Actual Role:&lt;/strong> A Data Analytics Engineer does not simply draw dashboards; the true value lies in critical thinking, root-cause analysis, anomaly detection, and &amp;ldquo;data storytelling&amp;rdquo; to guide business decisions.&lt;/li>
+&lt;li>&lt;strong>Evolution Model:&lt;/strong> Transitioning from &lt;em>Observer/Learner&lt;/em> $\rightarrow$ &lt;em>Problem Solver/Systems Thinker&lt;/em>.&lt;/li>
+&lt;li>&lt;strong>Corporate Culture:&lt;/strong> Exposure to a &amp;ldquo;Blameless post-mortem&amp;rdquo; culture and international recruitment standards.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="key-takeaways">Key Takeaways&lt;/h3>
+&lt;h4 id="mindset--foundations">Mindset &amp;amp; Foundations&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Foundations are Paramount:&lt;/strong> Instead of blindly chasing tech trends, mastering core fundamentals (Networking, Linux OS) is the golden key.&lt;/li>
+&lt;li>&lt;strong>Big Picture Perspective:&lt;/strong> Cultivate the ability to view the entire infrastructure landscape rather than focusing solely on completing isolated assigned tasks.&lt;/li>
+&lt;/ul>
+&lt;h4 id="hands-on--soft-skills">Hands-on &amp;amp; Soft Skills&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Learn by Doing:&lt;/strong> Build personal projects (Pet Projects) to directly deploy, configure monitoring, face errors firsthand, and optimize systems.&lt;/li>
+&lt;li>&lt;strong>Soft Skills as a Launchpad:&lt;/strong> Presentation, communication, and teamwork skills play a crucial role in an engineer&amp;rsquo;s career progression.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="applying-to-work--personal-projects">Applying to Work &amp;amp; Personal Projects&lt;/h3>
+&lt;p>Applying these key lessons directly to the current Marketplace system development project:&lt;/p></description></item></channel></rss>

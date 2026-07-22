@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Các events đã tham gia on Báo cáo thực tập</title><link>https://vinhvinh0806.github.io/phuocvinhthuctap/vi/4-eventparticipated/</link><description>Recent content in Các events đã tham gia on Báo cáo thực tập</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://vinhvinh0806.github.io/phuocvinhthuctap/vi/4-eventparticipated/index.xml" rel="self" type="application/rss+xml"/><item><title>Event 1</title><link>https://vinhvinh0806.github.io/phuocvinhthuctap/vi/4-eventparticipated/4.1-event1/</link><pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate><guid>https://vinhvinh0806.github.io/phuocvinhthuctap/vi/4-eventparticipated/4.1-event1/</guid><description>&lt;h1 id="bài-thu-hoạch-saturday-meet-up">Bài thu hoạch: &amp;ldquo;Saturday Meet up&amp;rdquo;&lt;/h1>
+&lt;h3 id="mục-đích-của-sự-kiện">Mục Đích Của Sự Kiện&lt;/h3>
+&lt;ul>
+&lt;li>Tham gia chuỗi hoạt động trải nghiệm thực tế và tiếp cận văn hóa làm việc tại văn phòng AWS Việt Nam.&lt;/li>
+&lt;li>Học hỏi về tư duy thiết kế hệ thống quy mô lớn, lộ trình phát triển nghề nghiệp trong hệ sinh thái Cloud/AWS.&lt;/li>
+&lt;li>Hiểu đúng bản chất văn hóa DevOps và vai trò thực sự của Kỹ sư Phân tích Dữ liệu (Data Analytics) trong doanh nghiệp.&lt;/li>
+&lt;li>Mở rộng góc nhìn về quy trình làm việc đa quốc gia và cách chuẩn bị portfolio cho các cơ hội thực tập, việc làm sắp tới.&lt;/li>
+&lt;/ul>
+&lt;h3 id="danh-sách-diễn-giả">Danh Sách Diễn Giả&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Anh Kiên &amp;amp; Anh Thọ&lt;/strong> - Technical Specialists / System Architects&lt;/li>
+&lt;li>&lt;strong>Anh Danh Hoàng Hiếu Nghi&lt;/strong> - AWS Partner Network / Former FCAJ Student&lt;/li>
+&lt;li>&lt;strong>Anh Trong H. Truong&lt;/strong> - Senior DevOps Engineer&lt;/li>
+&lt;li>&lt;strong>Anh Đạt Phạm &amp;amp; Anh Cường Nguyễn&lt;/strong> - Data Analytics Engineers&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="nội-dung-nổi-bật">Nội Dung Nổi Bật&lt;/h3>
+&lt;h4 id="1-thiết-kế-hệ-thống-từ-bài-toán-nhỏ-đến-quy-mô-lớn">1. Thiết kế hệ thống: Từ bài toán nhỏ đến quy mô lớn&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Bài toán URL Shortener:&lt;/strong> Thông qua ví dụ rút gọn URL, diễn giả chỉ rõ không có tính năng nào là đơn giản khi đặt vào quy mô lớn (High Scale).&lt;/li>
+&lt;li>&lt;strong>Yêu cầu cốt lõi:&lt;/strong> Một hệ thống ổn định bắt buộc phải cân đo đong đếm kỹ lưỡng về lưu lượng truy cập (Traffic), tính sẵn sàng cao (High Availability), hiệu suất tối ưu và bài toán chi phí.&lt;/li>
+&lt;li>&lt;strong>Tư duy kiến trúc:&lt;/strong> Người kỹ sư cần phải định hình rõ ràng kiến trúc tổng thể trước khi lựa chọn bất kỳ dịch vụ AWS cụ thể nào.&lt;/li>
+&lt;/ul>
+&lt;h4 id="2-lộ-trình-phát-triển-từ-first-cloud-ai-journey-đến-đối-tác-aws">2. Lộ trình phát triển: Từ First Cloud AI Journey đến Đối tác AWS&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Câu chuyện truyền cảm hứng:&lt;/strong> Hành trình trưởng thành từ những bước đi đầu tiên trong chương trình First Cloud AI Journey đến khi trở thành một phần của mạng lưới Đối tác AWS.&lt;/li>
+&lt;li>&lt;strong>Yếu tố then chốt:&lt;/strong> Nhận được công việc chỉ là điểm khởi đầu. Sự khác biệt của một kỹ sư nằm ở tinh thần tự học không ngừng nghỉ, chủ động đóng góp cho cộng đồng và xây dựng mạng lưới kết nối chuyên nghiệp (Networking).&lt;/li>
+&lt;/ul>
+&lt;h4 id="3-bản-chất-của-một-kỹ-sư-devops-thực-thụ">3. Bản chất của một Kỹ sư DevOps thực thụ&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Xóa bỏ lầm tưởng:&lt;/strong> DevOps không đơn thuần là việc sử dụng thành thạo Docker, Kubernetes hay cấu hình CI/CD pipeline.&lt;/li>
+&lt;li>&lt;strong>Cốt lõi vấn đề:&lt;/strong> DevOps là một văn hóa và tập hợp phương pháp giúp xây dựng, kiểm thử, vận hành hệ thống đáng tin cậy dựa trên nền tảng vững chắc về Linux, Networking, Git, Container và lập trình (Python/Golang).&lt;/li>
+&lt;li>&lt;strong>Tư duy chống &amp;ldquo;Copy-Paste&amp;rdquo;:&lt;/strong> Việc sao chép câu lệnh trên mạng không đồng nghĩa với việc hiểu bản chất. Kỹ sư giỏi cần tư duy hệ thống và khả năng giao tiếp, phối hợp nhịp nhàng giữa các phòng ban.&lt;/li>
+&lt;/ul>
+&lt;h4 id="4-data-analytics-và-lăng-kính-văn-hóa-đa-quốc-gia">4. Data Analytics và Lăng kính Văn hóa Đa quốc gia&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Vai trò thực sự:&lt;/strong> Kỹ sư Data Analytics không đơn thuần là vẽ biểu đồ (Dashboard), giá trị nằm ở tư duy phản biện, tìm nguyên nhân gốc rễ (Root Cause), phát hiện bất thường và &amp;ldquo;kể chuyện bằng dữ liệu&amp;rdquo;.&lt;/li>
+&lt;li>&lt;strong>Mô hình tiến hóa:&lt;/strong> Chuyển dịch từ &lt;em>Người theo dõi/Học hỏi&lt;/em> $\rightarrow$ &lt;em>Người giải quyết vấn đề/Tư duy hệ thống&lt;/em>.&lt;/li>
+&lt;li>&lt;strong>Văn hóa doanh nghiệp:&lt;/strong> Tiếp cận văn hóa &amp;ldquo;Phân tích sự cố không đổ lỗi&amp;rdquo; (&lt;em>Blameless post-mortem&lt;/em>) và quy trình tuyển dụng chuẩn quốc tế.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="những-gì-học-được-bài-học-cốt-lõi">Những Gì Học Được (Bài học cốt lõi)&lt;/h3>
+&lt;h4 id="tư-duy--nền-tảng">Tư Duy &amp;amp; Nền Tảng&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Nền tảng là gốc rễ:&lt;/strong> Thay vì chạy theo công cụ mới một cách mù quáng, việc làm chủ kiến thức nền tảng (Mạng máy tính, Hệ điều hành Linux) là chìa khóa vàng.&lt;/li>
+&lt;li>&lt;strong>Góc nhìn toàn cảnh:&lt;/strong> Rèn luyện tư duy nhìn nhận toàn bộ bức tranh hạ tầng thay vì chỉ tập trung hoàn thành các tác vụ nhỏ lẻ.&lt;/li>
+&lt;/ul>
+&lt;h4 id="thực-hành--kỹ-năng">Thực Hành &amp;amp; Kỹ Năng&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Học đi đôi với hành:&lt;/strong> Tự xây dựng các dự án cá nhân (Pet Projects) để tự tay triển khai, cấu hình giám sát (Monitoring), trực tiếp đối mặt với lỗi và tối ưu hóa hệ thống.&lt;/li>
+&lt;li>&lt;strong>Kỹ năng mềm là bệ phóng:&lt;/strong> Khả năng thuyết trình, giao tiếp và làm việc nhóm đóng vai trò cực kỳ quan trọng đối với kỹ sư công nghệ.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="ứng-dụng-vào-công-việc--dự-án-cá-nhân">Ứng Dụng Vào Công Việc / Dự Án Cá Nhân&lt;/h3>
+&lt;p>Áp dụng trực tiếp những giá trị từ sự kiện vào dự án xây dựng hệ thống Marketplace hiện tại:&lt;/p></description></item></channel></rss>
